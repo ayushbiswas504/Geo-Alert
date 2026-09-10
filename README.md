@@ -49,8 +49,7 @@
 
 ### The Crisis
 
-The **North Eastern Region (NER)** of India comprises 8 states — Sikkim, Assam, Manipur, Mizoram, Meghalaya, Nagaland, Tripura, and Arunachal Pradesh — home to **45 million people**. This region is geologically young, tectonically active, and receives some of the highest rainfall in the world (Cherrapunji receives 11,777mm annually).
-
+AI-Based early warning and landslide Risk Monitoring System in NER
 ### Why Landslides Happen in NER
 
 Landslides in NER are caused by a complex interplay of **geological, meteorological, and anthropogenic factors**:
