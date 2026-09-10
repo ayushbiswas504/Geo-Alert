@@ -1116,12 +1116,12 @@ cd geo-shield && npm install && npm run build:win
 
 | Name | Roll No |
 |------|----------|
-| **Arghya Bose** | 24155380 |
-| **Arindam Tripathi** | 24155614 |
-| **Arnab Pal** | 24155615 |
-| **Aaditree Shreya** | 24155371 |
-| **Ankan Nag** | 2405791 |
-| **Akash Das** | 24155155 |
+| **Ayush Biswas** | 12522865 |
+| **Kashish Yadav** | 12523416 |
+| **Kirti** | 12517751 |
+| **Jaanvi Sain** | 12502776 |
+| **Sidhharth** | 12518829 |
+| **Prajid** | 12524611 |
 
 ---
 
