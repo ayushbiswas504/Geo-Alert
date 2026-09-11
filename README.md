@@ -98,6 +98,22 @@ Future Plans
 | **Phase 4** | +12 months | Offline-first mobile, District admin portal, Multi-hazard support |
 
 ---
+## 🛡️ Our Solution
+
+### GeoShield — A Complete Monitoring Platform
+
+GeoShield is a *full-stack AI-powered landslide monitoring system* designed specifically for the North Eastern Region. It combines *real-time sensor data, **satellite imagery, **machine learning prediction, and **multilingual early warning* into a single unified platform.
+
+### 6 Core Capabilities
+
+| # | Capability | Description | Technology |
+|---|------------|-------------|------------|
+| 1 | *Real-Time Monitoring* | 20 IoT sensor stations across 8 NER states collecting rainfall, soil moisture, ground displacement, tilt, and pore pressure data | FastAPI + SQLite |
+| 2 | *AI Risk Prediction* | RF+GB VotingClassifier ensemble (95.2% accuracy, 94.6% F1) trained on 12,000 real NER terrain samples | scikit-learn |
+| 3 | *Early Warning System* | Multi-level alert framework (Low → Moderate → High → Critical) with automatic SMS/push notification support | WebSocket + REST |
+| 4 | *GIS Risk Mapping* | Interactive Leaflet.js heatmaps showing real-time risk distribution, road status, village locations, and sensor stations | Leaflet.js |
+| 5 | *Citizen Reporting* | Geo-tagged photo/video reporting system for field officers and local residents with offline queue support | React + FastAPI |
+| 6 | *Multilingual UI* | Full interface translation in English, Hindi, Bengali, and Assamese covering all 90+ UI strings | i18n system |
 
 ## 👥 Team GeoShield
 
